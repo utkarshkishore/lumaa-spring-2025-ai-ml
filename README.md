@@ -61,6 +61,10 @@ This project is a simple content-based movie recommendation system that suggests
   ```bash
   pip install pandas scikit-learn numpy jupyter
 
+### Demo Video
+ - https://youtu.be/T0uWe3KSmRo
+
+   ---
 ### Salary Expectation**
 - 20 to 30 USD per hour
   

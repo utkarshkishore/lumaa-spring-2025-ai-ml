@@ -22,8 +22,12 @@ This project is a simple content-based movie recommendation system that suggests
 
 ## ⚙️ **Setup Instructions**
 - Clone this repo in your local machine.
-- Run the .ipynb file and give input "I love action movies with superheroes and space battles."
-- It will return the following output-
+- Run the .ipynb file  using jupyter notebook  via the command prompt.
+- Install the requirements by running: pip install pandas scikit-learn numpy jupyter
+- If you don't have Jupyter Notebook installed, you can install it using: pip install notebook
+- To open Jupyter Notebook, navigate to the directory where the repository is cloned and run: jupyter notebook.
+- Give input "I love action movies with superheroes and space battles."
+- 
    🔥 Top 5 Movie Recommendations:
 
 1. The Incredibles (Score: 0.2682)
@@ -55,7 +59,7 @@ This project is a simple content-based movie recommendation system that suggests
 - Python 3.x
 - Required libraries (install using pip):
   ```bash
-  pip install pandas scikit-learn numpy
+  pip install pandas scikit-learn numpy jupyter
 
 ### Salary Expectation**
 - 20 to 30 USD per hour

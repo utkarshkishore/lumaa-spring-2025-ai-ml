@@ -27,3 +27,7 @@ This project is a simple content-based movie recommendation system that suggests
 - Required libraries (install using pip):
   ```bash
   pip install pandas scikit-learn
+
+### Salary Expectation**
+- 20 to 30 USD per hour
+  
